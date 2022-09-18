@@ -13,7 +13,8 @@
 .green{
     color: green;
 }
-.bgimgf{
+
+.bgimg{
     background-image: url("../images/Picture6.jpg");
     background-repeat: repeat-x;
     opacity: 0.5;
